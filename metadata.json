@@ -1,0 +1,5 @@
+{
+  "name": "19b-API Architect",
+  "description": "An interactive educational tool explaining different API architectural styles including SOAP, REST, GraphQL, gRPC, and Real-time patterns.",
+  "requestFramePermissions": []
+}
